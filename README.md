@@ -1,58 +1,21 @@
 # 🚀 Mi primer repositorio en GitHub
-
- 
-
 ## 👋 Bienvenido
 
 Este es mi primer repositorio. Aquí empecé a trabajar con GitHub.
-
- 
-
----
-
- 
-
 ## ✅ Respuestas
-
- 
-
 ### 🧪 ¿Qué hice aquí?
-
-(Respuesta)
-
- 
-
+Guardé versiones de mi documento
 ### 😮 ¿Qué es GitHub?
-
-(Respuesta)
-
- 
-
+Un controlador de versiones
 ### 🎯 ¿Para qué me sirve?
-
-(Respuesta)
-
- 
-
----
-
- 
-
-## ✍️ Mi progreso
-
-Aquí ya realicé varios cambios en GitHub.
-
- 
-
----
-
- 
-
+Realizar un seguimiento de las versiones de mis archivos
+ ## ✍️ Mi progreso
+50%
 ## 👤 Sobre mí
 
-Nombre:
+Nombre: Profesaanto
 
-Curso: 
+Curso: PD 1 ruta 3
 
 
 
